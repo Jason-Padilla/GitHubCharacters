@@ -1,0 +1,59 @@
+.container
+{
+    width: 915px;
+    background-color: rgb(213, 210, 174);
+    border: 2px dotted red;
+    margin: 0px auto;
+    padding-bottom: 40px;
+}
+    .row
+    {
+        margin: 3px 50px;
+    }
+    .blue-square img
+    {
+        width: 130px;
+        height: 130px;
+        border: 10px solid blue;
+    }
+    .pink-square img
+    {
+        width: 130px;
+        height: 130px;
+        border: 10px solid pink;
+    }
+    .top
+    {
+        margin-top: 30px;
+        margin-left: 200px;
+    }
+    .top img
+    {
+        height: 75px;
+        width: auto;
+        display: inline-block;
+    }
+    .top h1
+    {
+        display: inline-block;
+    }
+    
+    .blue-square
+    {
+        width: 150px;
+        height: 150px;
+        border: 2px solid black;
+        display: inline-block;
+        margin:2px;
+        vertical-align: top;
+    }
+    .pink-square
+    {
+        background-color: pink;
+        width: 150px;
+        height: 150px;
+        border: 2px solid black;
+        display: inline-block;
+        margin:2px;
+        vertical-align: top;
+    }
